@@ -1,6 +1,7 @@
 ---
 layout: default 
 title: Archive
+comments: yes
 ---
 
 <ul class="listing">
