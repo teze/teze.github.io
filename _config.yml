@@ -1,3 +1,6 @@
 name: Teze Blog
 markdown: redcarpet
 pygments: true
+permalink: /:categories/:title/
+author:Teze
+paginate:10
