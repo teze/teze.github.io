@@ -4,8 +4,9 @@ layout: page
 comments: yes
 ---
 
-[Teze on Github](https://github.com/teze)
-[google +](https://plus.google.com/117534008140170831687/posts)
+-[Teze on Github](https://github.com/teze)
+
+-[Google +](https://plus.google.com/117534008140170831687/posts)
 
 ----------------
 
