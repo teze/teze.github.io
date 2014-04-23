@@ -14,8 +14,8 @@
 @import url(http://fonts.googleapis.com/css?family=Cuprum);
 body{font-size:14px;word-spacing:1px;
 	margin-left:auto;
-	margin-right:auto;
-	font-family:Trebuchet MS;color:#8968CD;background-color:#ffffff;}
+margin-right:auto;
+	font-family:Trebuchet MS,"Galdeano","Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;color:#000000;background-color:#ffffff;}
 *{padding:0;margin: 0;border:none;outline:none;}
 a{color:#2e9afe;text-decoration:none;}
 a:hover{color:#333333;text-decoration:underline;}
@@ -30,7 +30,7 @@ code{background-color: #f0f0f0;}
 
 pre {
 border: 1px solid #ccc;
-font-family: Microsoft YaHei;
+font-family: Trebuchet MS,Bitstream Vera Sans Mono,monospace;
 padding:5px;
 background-color: #f0f0f0;
 -webkit-border-radius: 2px;
@@ -65,15 +65,15 @@ h3 {margin-top:10px;}
 .pageNav{font-weight:bold;font-size:17px;}
 .pageNavInvalid{font-weight:bold;font-size:17px;color:#D0D0D0;}
 header{padding:.5em 0;border-bottom: 1px solid #cccccc;}
-nav{font-family:"Microsoft YaHei","Electrolize",sans-serif;font-size:1.1em;text-transform:uppercase;float:left;margin-left:-12em;width:9em;text-align:right;}
+nav{font-family:Trebuchet MS,"Electrolize",sans-serif;font-size:1.1em;text-transform:uppercase;float:left;margin-left:-12em;width:9em;text-align:right;}
 nav a{display:block;padding:.7em 1em;color:#000000;}
 nav a:hover{background-color:#2e9afe;text-decoration:none;color:#f9f9f9;-webkit-transition:color .2s linear;}
 .post{padding:.5em 0em;}
-h1{font-family:Microsoft YaHei,"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1.6em;color:#000;}
-h2{font-family:Microsoft YaHei,"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1.4em;color:#111;}
-h3{font-family:Microsoft YaHei,"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1.2em;color:#222;}
-h4{font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1em;color:#333;}
-pre,code{font-family:Microsoft YaHei,Menlo,"Andale Mono",Consolas,"Courier New",Monaco
+h1{font-family:Trebuchet MS,"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1.6em;color:#000;}
+h2{font-family:Trebuchet MS,"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1.4em;color:#111;}
+h3{font-family:Trebuchet MS,"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1.2em;color:#222;}
+h4{font-family:Trebuchet MS,"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1em;color:#333;}
+pre,code{font-family:Menlo,"Andale Mono",Consolas,"Courier New",Monaco
 code{background-color:transparent;},monospace;font-size:13px;}
 embed,object,iframe{display:block;margin:4px auto;}
 .gist{font-size: 12px;line-height:1.6;}
