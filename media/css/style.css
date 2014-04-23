@@ -14,8 +14,8 @@
 @import url(http://fonts.googleapis.com/css?family=Cuprum);
 body{font-size:14px;word-spacing:1px;
 	margin-left:auto;
-margin-right:auto;
-	font-family:Microsoft YaHei;color:#000000;background-color:#ffffff;}
+	margin-right:auto;
+	font-family:"Trebuchet MS";color:#000100;background-color:#ffffff;}
 *{padding:0;margin: 0;border:none;outline:none;}
 a{color:#2e9afe;text-decoration:none;}
 a:hover{color:#333333;text-decoration:underline;}
