@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
   color:#222222;
-  font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+  font-family: Lucida Grande, Calibri, Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
 }
 
@@ -162,7 +162,7 @@ pre, code {
   color: #222;
   background-color: #fff;
 
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: Terminal,Monaco, Bitstream Vera Sans Mono, Lucida Console, monospace;
   font-size: 14px;
 
   border-radius: 2px;
@@ -238,7 +238,7 @@ table {
  }
 
 th {
-  font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: Arial,'Lucida Grande', 'Helvetica Neue', Helvetica,  sans-serif;
   padding: 10px;
   background: #373737;
   color: #fff;
