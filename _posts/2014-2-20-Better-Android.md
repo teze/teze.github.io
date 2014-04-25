@@ -157,7 +157,6 @@
   <ol>
   <li><code>Android Studio</code></li>
   <li><a href="https://github.com/inmite/android-butterknife-zelezny"><strong>Android ButterKnife Zelezny</strong></a>  <code>Android Studio</code> 插件 配合 <code>butterknife</code>快速注入<code>view</code></li>
-  1. 
   </ol>
 </blockquote>
 
@@ -180,7 +179,8 @@
   <li><strong><a href="">Joli OS&nbsp;</a></strong></li>
   <li><strong><a href="http://www.sonarqube.org/">sonarqube</a>: (质量控制平台)</strong></li>
   <li><strong><a href="https://travis-ci.org">Travis CI</a>:(Free Hosted Continuous Integration Platform for the Open Source Community.)</strong></li>
-  <li><strong><a href="">Bamboo</a></strong></li>
+  <li><strong><a href="https://www.atlassian.com/software/bamboo">Bamboo</a></strong> 集成项目管理系统，收费。 </li>
+  <li><strong><a href="https://heroku.com/">heroku</a></strong> 云应用部署环境，免费。</li>
   </ol>
 </blockquote></div></body>
 </html>
