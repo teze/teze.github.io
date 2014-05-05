@@ -2,11 +2,11 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Gralde for Android Part 2.md</title>
+<title>Gradle for Android Part 2.md</title>
 <link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
 <script type="text/javascript" src="https://stackedit.io/libs/MathJax/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
-<body><div class="container"><h1 id="gralde-for-android-part-2">Gralde for Android (Part 2)</h1>
+<body><div class="container"><h1 id="gralde-for-android-part-2">Gradle for Android (Part 2)</h1>
 
 <hr>
 
