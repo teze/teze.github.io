@@ -4,6 +4,7 @@ title: SwipeBackLayout
 categories: [Android]
 tags: [Android,Layout]
 fullview: true
+
 ---
 <html>
 <head>
