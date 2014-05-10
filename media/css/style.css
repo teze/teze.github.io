@@ -17,7 +17,7 @@ body{font-size:14px;word-spacing:1px;
 margin-right:auto;
 	font-family:Trebuchet MS,"Galdeano","Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;color:#000000;background-color:#ffffff;}
 *{padding:0;margin: 0;border:none;outline:none;}
-a{color:#2e9afe;text-decoration:none;}
+a{color: #f2756a;text-decoration:none;}/* color:#2e9afe;*/
 a:hover{color:#333333;text-decoration:underline;}
 hr{margin:.7em 0;border-top:1px dashed #d0d0d0;border-bottom:1px dashed #f9f9f9;}
 p{padding:.5em 0;}
@@ -67,7 +67,7 @@ h3 {margin-top:10px;}
 header{padding:.5em 0;border-bottom: 1px solid #cccccc;}
 nav{font-family:Trebuchet MS,"Electrolize",sans-serif;font-size:1.1em;text-transform:uppercase;float:left;margin-left:-12em;width:9em;text-align:right;}
 nav a{display:block;padding:.7em 1em;color:#000000;}
-nav a:hover{background-color:#2e9afe;text-decoration:none;color:#f9f9f9;-webkit-transition:color .2s linear;}
+nav a:hover{background-color:#f2756a;text-decoration:none;color:#f9f9f9;-webkit-transition:color .2s linear;}
 .post{padding:.5em 0em;}
 h1{font-family:Trebuchet MS,"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1.6em;color:#000;}
 h2{font-family:Trebuchet MS,"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1.4em;color:#111;}
@@ -92,7 +92,7 @@ footer a {
 margin: 1px;
 border: 1px solid rgba(1,1,1,0);
 border-bottom: 1px dashed #BBB;
-color: #2e9afe;
+color: #f2756a;
 text-decoration: none;
 }
 
@@ -150,7 +150,7 @@ text-decoration: none;
 
 .paginator .current-page {
 color: white;
-background: #2e9afe;
+background: #f2756a;
 }
 
 .paginator a:hover{
@@ -158,18 +158,18 @@ color: white;
 background: #83BF73;
 }
 
-#ds-thread #ds-reset .ds-highlight{color: #2e9afe !important;}
+#ds-thread #ds-reset .ds-highlight{color: #f2756a !important;}
 #ds-reset .ds-sort a:active {
-color: #2e9afe;
+color: #f2756a;
 }
-#ds-thread #ds-reset a.ds-comment-context:hover{color:#2e9afe;}
-#ds-thread #ds-reset #ds-bubble a:hover{color:#2e9afe;}
-#ds-thread #ds-reset .ds-post-liked a.ds-post-likes{color:#2e9afe;}
-#ds-thread #ds-reset .ds-paginator a.ds-current{color:#2e9afe;}
-#ds-wrapper #ds-reset .ds-unread-list li a{color:#2e9afe;}
-#ds-notify #ds-reset ul.ds-notify-unread li a{color:#2e9afe;}
-#ds-reset .ds-highlight{color:#2e9afe !important;}
-#ds-reset #ds-ctx .ds-ctx-entry .ds-ctx-head a:hover{color:#2e9afe;}
-#ds-thread #ds-reset .ds-login-buttons .ds-more-services{color:#2e9afe !important;}
-#ds-thread #ds-reset a.ds-unread-comments-count{background-color:#2e9afe;}
-#ds-thread #ds-reset .ds-sort a.ds-current, #ds-thread #ds-reset .ds-sort a:active{color:#2e9afe !important;}
+#ds-thread #ds-reset a.ds-comment-context:hover{color:#f2756a;}
+#ds-thread #ds-reset #ds-bubble a:hover{color:#f2756a;}
+#ds-thread #ds-reset .ds-post-liked a.ds-post-likes{color:#f2756a;}
+#ds-thread #ds-reset .ds-paginator a.ds-current{color:#f2756a;}
+#ds-wrapper #ds-reset .ds-unread-list li a{color:#f2756a;}
+#ds-notify #ds-reset ul.ds-notify-unread li a{color:#f2756a;}
+#ds-reset .ds-highlight{color:#f2756a !important;}
+#ds-reset #ds-ctx .ds-ctx-entry .ds-ctx-head a:hover{color:#f2756a;}
+#ds-thread #ds-reset .ds-login-buttons .ds-more-services{color:#f2756a !important;}
+#ds-thread #ds-reset a.ds-unread-comments-count{background-color:#f2756a;}
+#ds-thread #ds-reset .ds-sort a.ds-current, #ds-thread #ds-reset .ds-sort a:active{color:#f2756a !important;}
