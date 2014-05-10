@@ -3,3 +3,4 @@ markdown: redcarpet
 pygments: true
 permalink: /:categories/:title/
 url: http://teze.github.io/
+paginate: 15
