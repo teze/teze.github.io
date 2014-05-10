@@ -13,7 +13,7 @@ fullview: true
 <link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
 <script type="text/javascript" src="https://stackedit.io/libs/MathJax/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
-<body><div class="container"><h1 id="robust-and-readable-a-app健壮的可读性高的框架-for-android-app">Robust and readable a App(健壮的，可读性高的框架 for  Android App)</h1>
+<body><div class="container"><h1 id="robust-and-readable-a-app健壮的可读性高的Android-APP框架">Robust and readable a App for  Android (健壮的，可读性高的Android App框架)</h1>
 
 <p>(翻译)<a href="http://joanzap.ghost.io/robust-architecture-for-an-android-app/">原文</a></p>
 
