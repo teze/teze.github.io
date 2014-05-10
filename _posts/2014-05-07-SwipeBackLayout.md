@@ -4,7 +4,7 @@ title: SwipeBackLayout
 categories: [Android]
 tags: [Android,Layout]
 fullview: true
-
+description:
 ---
 <html>
 <head>
@@ -15,14 +15,10 @@ fullview: true
 </head>
 <body><div class="container"><h1 id="swipebacklayout-滑动返回关闭界面控件">SwipeBackLayout 滑动返回关闭界面控件</h1>
 
-<hr>
-
 <p><em>Edit by Fooyou Email : <a href="mailto:foyou23@qq.com">foyou23@qq.com</a></em> </p>
 
 <pre><code>15:31 05/07/2014
 </code></pre>
-
-<hr>
 
 <p>因工作需要，在项目中需实现体验效果：在Android App 中，手势向右滑动，拖拽，关闭当前页面。具备飘逸的特效，阻泥效果。</p>
 
