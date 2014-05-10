@@ -1,4 +1,11 @@
-<!DOCTYPE html>
+---
+layout: post
+title: Robust and readable a App
+categories: [Android]
+tags: [Android,Layout]
+fullview: true
+---
+
 <html>
 <head>
 <meta charset="utf-8">
