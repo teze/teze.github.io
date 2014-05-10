@@ -1,3 +1,11 @@
+---
+layout: post
+title: Robust and readable a App
+categories: [Android]
+tags: [Android,Layout]
+fullview: true
+---
+
 
 # Robust and readable a App(健壮的，可读性高的框架 for  Android App)
 
