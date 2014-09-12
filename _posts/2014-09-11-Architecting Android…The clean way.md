@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SwipeBackLayout
+title: Architecting Android…The clean way?
 categories: [Android]
 tags: [Android,Layout]
 description:
