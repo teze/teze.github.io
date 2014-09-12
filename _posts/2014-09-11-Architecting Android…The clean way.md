@@ -2,7 +2,7 @@
 layout: post
 title: Architecting Android…The clean way?
 categories: [Android]
-tags: [Android,Layout]
+tags: [Android,MVP]
 description:
 fullview: true
 ---
