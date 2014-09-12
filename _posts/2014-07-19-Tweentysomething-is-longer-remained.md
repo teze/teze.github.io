@@ -1,8 +1,8 @@
 ---
 
 layout: post
-title: 
-categories: [Ted：20岁的光阴不再来]
+title: Ted：20岁的光阴不再来
+categories: [Thinking]
 tags: [Thinking]
 description:
 fullview: true
@@ -15,6 +15,7 @@ fullview: true
     
 ----------------------------------------------------------
 
+#Ted：20岁的光阴不再来
 
 "不要坐井观天，好朋友是可以载你一程去机场
 但是20多岁的人，如果只和自己想法相同的同龄人交往，限制了他们的交际圈，他们所知，所想，说讲和他们的工作地点。
