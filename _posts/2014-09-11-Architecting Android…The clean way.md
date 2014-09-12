@@ -152,15 +152,13 @@ fullview: true
 <li><strong>Data Layer:</strong> <code>Robolectric</code> （这一层开始有Android相关的依赖）+<code>junit</code> +<code>mockito</code>  做单元和集成测试。</li>
 </ul>
 
-
-
 <h3 id="代码展示show-me-the-code">代码展示（Show me the code）</h3>
 
 <p><strong>我知道你很想知道代码在哪呢？对不对？ </strong> 好把！<a href="https://github.com/android10/Android-CleanArchitecture">这里是github连接地址</a> ，在上面你会找到我写的，至于目录结构，一些要说明的，就是，不同的层，使用不同的模块：</p>
 
 <ul>
 <li><strong>presentation:</strong> Android模块，放了presentation 表现层的内容。</li>
-<li>**domain：**Java模块，不包含Android相关的东西。</li>
+<li><strong> domain：</strong> Java模块，不包含Android相关的东西。</li>
 <li><strong>data:</strong> Android模块，数据来源的地方。（ 数据都是从这获取）</li>
 <li><strong>data-test:</strong>  数据层测试，因为<code>Robolectric</code> 有一些限制，我把它分成几个java模块。</li>
 </ul>
@@ -176,7 +174,7 @@ fullview: true
 <li><strong>易测试 Easy to test.</strong></li>
 <li><strong>高聚合Very cohesive.</strong></li>
 <li><strong>低耦合 Decoupled.</strong> <br>
-最后，我强烈推荐你去尝试一下，实践，并且分享你的经验。也许你会找到更好的解决方案：我们都知道，<strong>不断提升</strong>一个件非常好的，非常积极的事情呀。我喜欢这篇文章对你有所帮助，欢迎各种反馈。</li>
+最后，我强烈推荐你去尝试一下，实践，并且分享你的经验。也许你会找到更好的解决方案：我们都知道，<strong>不断提升</strong>一个件非常好的，非常积极的事情呀。我希望这篇文章对你有所帮助，欢迎各种反馈。</li>
 </ul>
 
 
