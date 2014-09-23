@@ -28,7 +28,7 @@ Cause 1: Context Leak
 Cause 2: The Handler Leak OR the Inner Class（handler和内部类本质上是同一种）
 ------------------------------------------------------
 - 内存泄漏点：
-`
+```
 public class SampleActivity extends Activity {
  
   private final Handler mLeakyHandler = new Handler() {
@@ -52,7 +52,7 @@ public class SampleActivity extends Activity {
     finish();
   }
 }
-`
+```
 
 -   推荐方案：
 ```
