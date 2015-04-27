@@ -13,8 +13,6 @@ fullview: true
     
     2014/9/25
 
-[google-styleguide](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
-
 -------------------------------------
 ###优化建议  (续....2014-09-25)
 
@@ -105,5 +103,7 @@ static final String strVal = "Hello, world!";
 
 ##15.Beautiful code
 > 优雅的编码。
+
+read more >> [google-styleguide](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
 
 未完待续。。。。。
