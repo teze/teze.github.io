@@ -2,7 +2,7 @@
 ---
 
 layout: post
-title: 那些年折腾过的Linux ------Arch Linux
+title: 那些年折腾过的Linux --Arch Linux
 categories: [Linux]
 tags: [Linux]
 description:
@@ -10,7 +10,7 @@ fullview: true
 
 ---
 
-##那些年折腾过的Linux ------Arch Linux
+##那些年折腾过的Linux --Arch Linux
 
 
 好几番折腾arch ！现在终于搞得差不多了！前面有n多次失败！从基本系统安装，桌面配置！compiz配置 ～～等等 遇到各种各样的问题～～现在终于有点“成就感”了（见笑了,本人菜鸟都算不上，请高手们不笑话我！！！）简单的庆祝一下！！！哈哈！！废话不说了！作作笔记吧！！记录一下我的足迹！！
