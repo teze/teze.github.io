@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Ted：20岁的光阴不再来
+title: Tweentysomething-is-longer-remained
 categories: [Thinking]
 tags: [Thinking]
 description:
